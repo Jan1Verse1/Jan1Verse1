@@ -18,5 +18,5 @@ I'm a Software Engineer, Product Designer, and brand indentity designer who is p
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jan1Verse1&show_icons=true&include_all_commits=true&hide_border=true" alt="Jan1Verse1's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan1Verse1&langs_count=8&layout=compact&hide_border=true" alt="Jan1Verse1's GitHub stats" /> |
 | ------------- | ------------- |
