@@ -13,7 +13,7 @@ I'm a Software Engineer, Product Designer, and brand indentity designer who is p
 - 🖊️ I like think mhy alter-ego is a writer.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-End Engineer, or UI Engineer (Intern or Junior level) & Product Designer(Intermediate level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailoluwaseyiadedotun@gmail.com.
 - 🏐 When I am not building or designing the next big digital product, I am playing volleyball.
 
 ---
