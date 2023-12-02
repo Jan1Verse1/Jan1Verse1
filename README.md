@@ -10,7 +10,7 @@ I'm a Software Engineer, Product Designer, and brand indentity designer who is p
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs.
-- 🖊️ I like think mhy alter-ego is a writer.
+- 🖊️ I like think my alter-ego is a writer.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-End Engineer, or UI Engineer (Intern or Junior level) & Product Designer(Intermediate level).
 - 📫 You can [view my resume](#) and contact me by emailing mailoluwaseyiadedotun@gmail.com.
