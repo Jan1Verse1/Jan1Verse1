@@ -8,8 +8,8 @@ I'm a Software Engineer, Product Designer, and brand indentity designer who is p
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs.
+- 💡 Studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 🌱 Tools: JavaScript & Reactjs.
 - 🖊️ I like think my alter-ego is a writer.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-End Engineer, or UI Engineer (Intern or Junior level) & Product Designer(Intermediate level).
